@@ -1,2 +1,0 @@
-# PortalsDemo
-Created with CodeSandbox
